@@ -21,7 +21,7 @@ The Moxa V2201 Series ultra-compact x86 embedded computer is based on the IntelÂ
 
 ## Standard Kit Contents
 
-The standard shipping Moxa Arm-based computer package contains the following items:
+The standard shipping Moxa V2201 series computer package contains the following items:
 
 - 1 x V2201 embedded computer
 - 1 x Terminal block to power jack converter
@@ -31,7 +31,7 @@ The standard shipping Moxa Arm-based computer package contains the following ite
 
 ## User Provided items
 
-To setup and operate Moxa Arm-based computer, users have to prepare the following items by themselves.
+To setup and operate Moxa V2201 series computer, users have to prepare the following items by themselves.
 
 - 10/100/1000M Ethernet cables
 - Power adapter: input voltage 90 to 264 VAC, output voltage 24 V with 2.5 A DC load (can be purchased separately from Moxa)
