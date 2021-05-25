@@ -11,7 +11,7 @@
 
 # Overview
 
-The Moxa V2201 Series ultra-compact x86 embedded computer is based on the Intel® Atom™ E3800 Series processor, features the most reliable I/O design to maximize connectivity, and supports dual wireless modules, making it suitable for a diverse range of communication applications. The computer’s thermal design ensures reliable system operation in temperatures ranging from -40 to 85°C, and wireless operation in temperatures ranging from -40 to 70°C with a special purpose Moxa wireless module installed. The V2201 Series supports “Moxa Proactive Monitoring” for device I/O status monitoring and alerts, system temperature monitoring and alerts, and system power management. Closely monitoring the system status makes it easier to recover from
+The Moxa V2201 Series ultra-compact x86 embedded computer is based on the Intel® Atom™ E3800 Series processor, features the most reliable I/O design to maximize connectivity, and supports dual wireless modules, making it suitable for a diverse range of communication applications. The computer’s thermal design ensures reliable system operation in temperatures ranging from -40 to 85°C, and wireless operation in temperatures ranging from -40 to 70°C with a special purpose Moxa wireless module installed. The V2201 Series supports “Moxa Proactive Monitoring” for device I/O status monitoring and alerts, system temperature monitoring and alerts, and system power management. Closely monitoring the system status makes it easier to recover from errors and provides the most reliable platform for your applications.
 
 # Hardware Description
 
