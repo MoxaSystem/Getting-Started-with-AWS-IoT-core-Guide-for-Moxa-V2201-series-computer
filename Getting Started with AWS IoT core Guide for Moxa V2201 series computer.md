@@ -45,7 +45,7 @@ Based on user’s application requirement, the following items are optional
 ## 3rd Party purchasable items
 N/A
 
-# Set up your Development Environment
+# Set up your Hardware Environment
 - **Connecting a Display**
 
     Moxa V2201 series computer comes with HDMI interfaces on the rear panel. Connect a display monitor to the HDMI interfaces.
